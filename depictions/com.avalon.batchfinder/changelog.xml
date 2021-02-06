@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>5.1.3</version>
-		<change>Added new "Batch Type" setting allowing users to specify if they want Full Service or Delivery Only batches.</change>
+		<version>5.1.5</version>
+		<change>Switched to new license key system.</change>
 	</changes>
 </changelog>
