@@ -1,12 +1,12 @@
 Package: com.avalon.autoshop
-Version: 5.1.4
+Version: 5.1.5
 Architecture: iphoneos-arm
 Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex
-Filename: ./debs/com.avalon.autoshop_5.1.4_iphoneos-arm.deb
-Size: 206454
-MD5sum: f77912202f8c2c2313e0fd8f9e878379
-SHA1: b02805dfbb25056ef667b0f71dd30f14dbdd3413
-SHA256: f7c607f9329790e84934c4401a314a6c50b8e83eb542b22f5950453324a24f1e
+Filename: ./debs/com.avalon.autoshop_5.1.5_iphoneos-arm.deb
+Size: 242938
+MD5sum: 35e12e2b49978e3c39637c365945ab91
+SHA1: c3e51c2680dcc1c168b2a01f667885bd1caac699
+SHA256: cbab24bb6554ef64db0cc33b6d06c440b100c8955e0006915e212f8f0b450b39
 Section: Tweaks
 Description: An Instacart batch grabbing bot.
 Author: Avalon

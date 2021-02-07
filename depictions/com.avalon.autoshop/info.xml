@@ -1,7 +1,7 @@
 <package>
 	<id>com.avalon.autoshop</id>
 	<name>AutoShop</name>
-	<version>5.1.4</version>
+	<version>5.1.5</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -9,7 +9,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed minor bug with the address master list location.</change>
+		<change>Switched to new license key system.</change>
 	</changelog>
 	<links></links>
 </package>

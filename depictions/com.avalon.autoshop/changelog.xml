@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>5.1.4</version>
-		<change>Fixed minor bug with the address master list location.</change>
+		<version>5.1.5</version>
+		<change>Switched to new license key system.</change>
 	</changes>
 </changelog>
