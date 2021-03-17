@@ -1,7 +1,7 @@
 <package>
 	<id>com.avalon.batchfinder</id>
 	<name>BatchFinder</name>
-	<version>5.1.5</version>
+	<version>5.2.8</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -9,7 +9,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Switched to new license key system.</change>
+		<change>Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
 	</changelog>
 	<links></links>
 </package>

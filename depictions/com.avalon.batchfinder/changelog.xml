@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>5.1.5</version>
-		<change>Switched to new license key system.</change>
+		<version>5.2.8</version>
+		<change>Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
 	</changes>
 </changelog>

@@ -1,15 +1,15 @@
 Package: com.avalon.batchfinder
-Version: 5.1.5
+Version: 5.2.8
 Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex
-Filename: ./debs/com.avalon.batchfinder_5.1.5_iphoneos-arm.deb
-Size: 241806
-MD5sum: 5611ce88f4d158a0bba966bff48a1d28
-SHA1: bc42cf70483bdbcf0fb243dbcf3e7bca6735343f
-SHA256: 23f52df0cf5f9703f7081ce95c9cfb9e3501bf3b605afcd4b7bb3169c11096b2
+Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
+Filename: ./debs/com.avalon.batchfinder_5.2.8_iphoneos-arm.deb
+Size: 217192
+MD5sum: 6240cc43b861c795e268abc50efd7721
+SHA1: 6ea31e6051e4324a3a13227916239ef823e2ca74
+SHA256: 8246a1a18c1d235e0dddc141044f247345fa62a1a3f4da74036a6162052ba07f
 Section: Tweaks
 Description: An Instacart batch grabbing bot.
-Author: Avalon <dev@batchfinder.app>
+Author: Avalon <batchfinderdev@gmail.com>
 Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
 Name: BatchFinder
 
@@ -78,6 +78,24 @@ Description: A general purpose jailbreak detection bypass patch. Configure the L
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta)
+
+Package: com.udevs.bakgrunnur
+Version: 1.5.9
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1864
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.udevs.bakgrunnur_1.5.9_iphoneos-arm.deb
+Size: 287774
+MD5sum: e1cb26cc52bfd0f9acc2468da9ce3116
+SHA1: 7d2f9c4e6e3a434129d45b00e1cc9f1cfa009d2b
+SHA256: 87c7ba0f7f330056f24892094eba2e490079aa26572281042f10ee133025fb7e
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Name: Bakgrunnur
 
 Package: libflex
 Version: 4.3.0
