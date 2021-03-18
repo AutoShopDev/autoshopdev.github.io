@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>5.2.8</version>
-		<change>Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
+		<version>5.2.9</version>
+		<change>Fixed new user settings issue. Moved delete store list button to the top of the menu. Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
 	</changes>
 </changelog>

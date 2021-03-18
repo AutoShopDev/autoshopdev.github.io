@@ -1,7 +1,7 @@
 <package>
 	<id>com.avalon.batchfinder</id>
 	<name>BatchFinder</name>
-	<version>5.2.8</version>
+	<version>5.2.9</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -9,7 +9,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
+		<change>Fixed new user settings issue. Moved delete store list button to the top of the menu. Added support for multiple whitelists, blacklists, and multiple blacklists. Added search criteria for minimum tip and to ignore batches labeled "Heavy". Backend optimization.</change>
 	</changelog>
 	<links></links>
 </package>
