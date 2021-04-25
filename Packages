@@ -13,6 +13,21 @@ Author: Avalon <batchfinderdev@gmail.com>
 Depiction: https://autoshopdev.github.io/depictions/?p=com.avalon.autoshop
 Name: AutoShop
 
+Package: com.avalon.batchfinder
+Version: 5.3.0
+Architecture: iphoneos-arm
+Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
+Filename: ./debs/com.avalon.batchfinder_5.3.0_iphoneos-arm.deb
+Size: 216818
+MD5sum: 373bc9b92f1628cfb45e100655a12304
+SHA1: 123627b6491787699f83597ee2fef6f0a785eb59
+SHA256: 7b0a2715539eabec97d439978a6870467c228587d9659c6d1424afdbd1add4ff
+Section: Tweaks
+Description: An Instacart batch grabbing bot.
+Author: Avalon <batchfinderdev@gmail.com>
+Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
+Name: BatchFinder
+
 Package: com.dgh0st.flexall
 Version: 0.0.1-20
 Architecture: iphoneos-arm
@@ -132,3 +147,4 @@ Description: Record and playback touch operations, play macro scripts automatica
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch with inputText
+
