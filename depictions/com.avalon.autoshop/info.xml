@@ -1,15 +1,15 @@
 <package>
 	<id>com.avalon.autoshop</id>
 	<name>AutoShop</name>
-	<version>5.1.5</version>
+	<version>5.3.0</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>An Instacart Bot</description>
+		<description>A batch grabber bot.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Switched to new license key system.</change>
+		<change>Initial Release.</change>
 	</changelog>
 	<links></links>
 </package>
