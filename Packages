@@ -1,32 +1,17 @@
 Package: com.avalon.autoshop
-Version: 5.3.0
+Version: 5.3.3
 Architecture: iphoneos-arm
 Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
-Filename: ./debs/com.avalon.autoshop_5.3.0_iphoneos-arm.deb
-Size: 216864
-MD5sum: af109836730cbe4595611d9b74a82513
-SHA1: 1f2097b4bdba6b1061ab3bd72f3993e4abd0a3a0
-SHA256: 6ab57198371c050be15c881dd325d9dfe27c095a8158e927f286fe32465e8b0a
+Filename: ./debs/com.avalon.autoshop_5.3.3_iphoneos-arm.deb
+Size: 683072
+MD5sum: c63b957545270b61da4df47164ce87d7
+SHA1: 56c297e1c6c11b7e8d9b535e8cebcc2a8d261abf
+SHA256: 321c394d7ad90e7bb6aecff77a6964afeb52cbd8f06a700580a8712ccfa49060
 Section: Tweaks
 Description: A batch grabbing bot.
 Author: Avalon <batchfinderdev@gmail.com>
 Depiction: https://autoshopdev.github.io/depictions/?p=com.avalon.autoshop
 Name: AutoShop
-
-Package: com.avalon.batchfinder
-Version: 5.3.0
-Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
-Filename: ./debs/com.avalon.batchfinder_5.3.0_iphoneos-arm.deb
-Size: 216818
-MD5sum: 373bc9b92f1628cfb45e100655a12304
-SHA1: 123627b6491787699f83597ee2fef6f0a785eb59
-SHA256: 7b0a2715539eabec97d439978a6870467c228587d9659c6d1424afdbd1add4ff
-Section: Tweaks
-Description: An Instacart batch grabbing bot.
-Author: Avalon <batchfinderdev@gmail.com>
-Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
-Name: BatchFinder
 
 Package: com.dgh0st.flexall
 Version: 0.0.1-20
