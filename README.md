@@ -1,1 +1,1 @@
-Storage of Instacart batch searcher
+Storage of AutoShop batch searcher
