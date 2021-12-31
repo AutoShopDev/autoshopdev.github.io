@@ -1,0 +1,15 @@
+<package>
+	<id>com.avalon.autoshop</id>
+	<name>AutoShop</name>
+	<version>5.3.4</version>
+	<compatibility></compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A batch grabber bot.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links></links>
+</package>
