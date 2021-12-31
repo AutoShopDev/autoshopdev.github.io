@@ -139,11 +139,11 @@ Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 2736
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/sudo_1.8.27-4_iphoneos-arm.deb
-Size: 276408
-MD5sum: 26f641ea169d1d2f1bb62f0e7dcb0475
-SHA1: 8e1a5700ed7ebd9c9877790ecf87dc4ab8f0fc4d
-SHA256: 48d417dc191bfae5db9c888a0c2509e94e5fbe1ec2a18662ba7daa0e4e6eae1b
+Filename: ./debs/batchfinder_sudo_1.8.27-4_iphoneos-arm.deb
+Size: 459020
+MD5sum: ef42f30dfb483379999814f274526814
+SHA1: c869058abb079a57b3150850475eb1ba8e9896b8
+SHA256: e962f36527d66c26d25e8716aedbe9d94dbcb7a50382cee9059dad2fc064132c
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
