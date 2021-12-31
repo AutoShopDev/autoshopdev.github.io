@@ -1,12 +1,12 @@
 Package: com.avalon.autoshop
 Version: 5.3.4
 Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
+Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
 Filename: ./debs/com.avalon.autoshop_5.3.4_iphoneos-arm.deb
-Size: 1142278
-MD5sum: 87fe4ffad35cd58b3843f17a2b095a04
-SHA1: 4bafcaf2831f55373f84fb28b7455c4e130cc605
-SHA256: b609c5918d88f469463ca18e2a0913099568fc9671745c9869750abac3375a97
+Size: 683082
+MD5sum: 386f3c2a72c3604e74ee86b2b73b0432
+SHA1: 5143e2e4aac9ca188d92c0172f634a596278811b
+SHA256: 9e9eab9c260749623af1f0e061efffe7ebf47a502e13635c2b44e17ab03d610c
 Section: Tweaks
 Description: A batch grabbing bot.
 Author: Avalon <batchfinderdev@gmail.com>
@@ -133,17 +133,17 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch with inputText
 
-Package: sudo
+Package: sudobf
 Version: 1.8.27-4
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 2736
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/batchfinder_sudo_1.8.27-4_iphoneos-arm.deb
-Size: 459020
-MD5sum: ef42f30dfb483379999814f274526814
-SHA1: c869058abb079a57b3150850475eb1ba8e9896b8
-SHA256: e962f36527d66c26d25e8716aedbe9d94dbcb7a50382cee9059dad2fc064132c
+Filename: ./debs/sudobf_1.8.27-4_iphoneos-arm.deb
+Size: 459030
+MD5sum: 954d45f10a90f8aea34cd4fcc9ce6f4c
+SHA1: 2c283cdcb3dec79b54d7498db83f6fe860ca4290
+SHA256: 8a051963b339744be462194769f888acf10ddc2a51bfadbc0980d4dac556dba6
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
